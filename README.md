@@ -45,7 +45,7 @@ I enjoy building **modern, scalable, secure, and user-focused digital experience
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,dart,c,react,nodejs,express,flask,html,css,tailwind,bootstrap,flutter,androidstudio,firebase,mongodb,mysql,git,github,postman,figma,vscode,linux,vercel,netlify&perline=9" />
+<img src="https://skillicons.dev/icons?i=vscode,html,css,javascript,python,vercel,c,git,typescript,github,react,netlify&perline=9" />
 
 <br/>
 
