@@ -4,7 +4,7 @@
 <img width="2134" height="393" alt="demo" src="https://github.com/user-attachments/assets/f3bf19fc-4848-425d-9bcf-647bf5cf0d03" />
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1200&color=F0F6FC&center=true&vCenter=true&width=950&lines=Software+Developer;Full+Stack+%7C+MERN+Developer;Flutter+%26+Android+Developer;Learning+CloudSec+%26+Cloud+DevOps;Building+Scalable+%26+Secure+Digital+Solutions&background=0D1117" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1200&color=F0F6FC&center=true&vCenter=true&width=950&lines=Software+Developer;Full+Stack+%7C+MERN+Developer;Flutter+%26+Android+Developer;Building+Scalable+%26+Secure+Digital+Solutions&background=0D1117" />
 
 
 
@@ -28,7 +28,6 @@ Hi, I'm **Akash r** — a passionate **Software Developer** with hands-on experi
 
 I enjoy building **modern, scalable, secure, and user-focused digital experiences** that solve real-world problems. My development approach focuses on **clean architecture, performance optimization, scalability, and meaningful user experiences**.
 
-Currently, I’m expanding my knowledge in **Cloud Security (CloudSec)** and **Cloud DevOps** while continuously improving my understanding of **system design, cloud technologies, and scalable infrastructure**.
 
 ### 💡 What I Do
 
@@ -36,8 +35,6 @@ Currently, I’m expanding my knowledge in **Cloud Security (CloudSec)** and **C
 - 🌐 Develop scalable **MERN Stack Solutions**
 - 📱 Create modern **Flutter & Android Applications**
 - 🤖 Explore **AI-powered systems & intelligent experiences**
-- ☁️ Learn **Cloud Infrastructure & DevOps**
-- 🔐 Study **Cloud Security & Secure Systems**
 - 🚀 Focus on **performance, scalability & maintainable code**
 
 <br/>
