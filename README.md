@@ -195,39 +195,13 @@ AI-powered resume building tool for quick, professional resumes.
 
 </div>
 
-<br/>
-
-### 📈 &nbsp; Contribution Activity
-
-<!-- CONTRIBUTION GRAPH — theme-aware -->
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=theakashr&theme=github-dark&hide_border=true&area=true&area_color=6366F1&line=818CF8&point=A5B4FC&color=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=theakashr&theme=github-light&hide_border=true&area=true&area_color=C7D2FE&line=4F46E5&point=6366F1&color=1f2328" />
-  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=theakashr&theme=github-light&hide_border=true&area=true&area_color=C7D2FE&line=4F46E5&point=6366F1&color=1f2328" width="100%" />
-</picture>
-
-<br/>
-
-`Every square represents another step forward.`
-
-</div>
-
-<br/>
-
-```text
-BUILDING      → Projects
-LEARNING      → AI + Software
-EXPLORING     → New Technologies
-CONTRIBUTING  → Open Source
-```
 
 <div align="center">
 
 ⭐ **Star my repositories if you find my open-source work useful!** ⭐
 
 </div>
+
 
 <br/>
 
