@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,25:6366F1,50:818CF8,75:A78BFA,100:C084FC&height=200&section=header&text=Akash%20R.&fontSize=58&fontColor=ffffff&fontAlignY=35&desc=Developer%20%7C%20AI%20Explorer%20%7C%20Builder&descSize=17&descColor=EDE9FE&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Akash%20R.&fontSize=58&fontColor=ffffff&fontAlignY=35&desc=Developer%20%7C%20AI%20Explorer%20%7C%20Builder&descSize=17&descColor=EDE9FE&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -205,7 +205,7 @@ AI-powered resume building tool for quick, professional resumes.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,25:6366F1,50:818CF8,75:A78BFA,100:C084FC&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer" width="100%"/>
 
 <div align="center">
 
