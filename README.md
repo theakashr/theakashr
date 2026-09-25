@@ -1,24 +1,18 @@
 <div align="center">
 
-# Hi, I'm Akash 👋
-
-### Computer Science Engineering Student · Developer · AI Explorer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:6366F1,100:0F172A&height=200&section=header&text=Akash%20R.&fontSize=58&fontColor=ffffff&fontAlignY=35&desc=Developer%20%7C%20AI%20Explorer%20%7C%20Builder&descSize=17&descColor=A5B4FC&animation=fadeIn" width="100%"/>
 
 <br/>
 
-> I enjoy building software, experimenting with AI, and turning ideas into practical projects.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=Building+Software+That+Solves+Real+Problems;Exploring+AI+%2C+Generative+AI+%26+Agents;Learning+by+Building+%E2%80%94+One+Project+at+a+Time;Build.+Learn.+Explore." alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-`Build • Learn • Explore`
-
-<br/>
-
-<a href="#-things-ive-built">🚀 Projects</a> &nbsp;·&nbsp;
-<a href="#%EF%B8%8F-tech-stack">🛠️ Tech Stack</a> &nbsp;·&nbsp;
-<a href="#-currently-learning">🌱 Learning</a> &nbsp;·&nbsp;
-<a href="https://github.com/theakashr?tab=repositories">🔭 Explore</a> &nbsp;·&nbsp;
-<a href="#-lets-connect">📫 Connect</a>
+<a href="https://github.com/theakashr"><img src="https://img.shields.io/badge/GitHub-theakashr-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
+&nbsp;
+<a href="https://github.com/theakashr?tab=repositories"><img src="https://img.shields.io/badge/Explore-All%20Repos-6366F1?style=for-the-badge&logo=telescope&logoColor=white&labelColor=0D1117"/></a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=theakashr&style=for-the-badge&color=818CF8&label=Profile+Views&labelColor=0D1117"/>
 
 </div>
 
@@ -26,197 +20,159 @@
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 &nbsp; ABOUT ME
 
-I'm a Computer Science Engineering student who enjoys building things with code. My current focus is on software development and exploring the world of Artificial Intelligence — from generative AI and LLMs to building practical AI-powered tools.
+> **Akash R.** — *Computer Science Engineering Student & Developer*  
+> Passionate about building software, experimenting with AI, and turning ideas into real, working projects.
 
-I learn best by creating real projects. Whether it's a web application, an AI experiment, or a developer tool, I believe the fastest way to understand something is to build it.
+* 🔨 **Focus:** Building web applications, AI-powered tools, and practical software products.
+* 🤖 **Exploring:** Generative AI, LLMs, RAG systems, and autonomous AI agents.
+* 🧠 **Philosophy:** *"Learn by building — every project is a lesson."*
+* 🚀 **Approach:** `Learn → Build → Break → Fix → Improve`
 
 ---
 
-## ⚡ What I Build
+### ⚡ &nbsp; WHAT I BUILD
+
+<div align="center">
 
 | 🤖 AI | 💻 Software | 🌐 Web | 🚀 Experiments |
-| :--- | :--- | :--- | :--- |
-| Exploring LLMs, RAG, AI agents and intelligent applications | Building practical software and digital products | Creating modern and responsive web applications | Trying new technologies, tools and ideas |
+| :---: | :---: | :---: | :---: |
+| LLMs, RAG, AI Agents & intelligent applications | Practical software & digital products | Modern, responsive web applications | New technologies, tools & ideas |
 
-> I enjoy turning ideas into practical projects and learning something new with every build.
-
----
-
-## 🛠️ Tech Stack
-
-*Tech I explore and build with*
-
-<table border="0">
-  <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Web</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>AI</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=flat-square" alt="Generative AI"/>
-      <img src="https://img.shields.io/badge/LLMs-6366F1?style=flat-square" alt="LLMs"/>
-      <img src="https://img.shields.io/badge/RAG-818CF8?style=flat-square" alt="RAG"/>
-      <img src="https://img.shields.io/badge/AI_Agents-A78BFA?style=flat-square" alt="AI Agents"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-      <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/>
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
-    </td>
-  </tr>
-</table>
+</div>
 
 ---
 
-## 🚀 Things I've Built
+### 🛠️ &nbsp; TECH STACK
+
+<div align="center">
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=c,python,js,ts&perline=7"/> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&perline=7"/> |
+| **Backend & Cloud** | <img src="https://skillicons.dev/icons?i=nodejs,firebase,vercel&perline=7"/> |
+| **AI & ML** | ![Generative AI](https://img.shields.io/badge/Generative_AI-6366F1?style=flat-square&logoColor=white) ![LLMs](https://img.shields.io/badge/LLMs-818CF8?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-A5B4FC?style=flat-square) ![AI Agents](https://img.shields.io/badge/AI_Agents-7C3AED?style=flat-square&logoColor=white) |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=7"/> |
+
+</div>
+
+---
+
+### 🚀 &nbsp; FEATURED PROJECTS
+
+<div align="center">
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**🤖 AI-Support-Triage-Agent**
+**🤖 [AI-Support-Triage-Agent](https://github.com/theakashr/AI-Support-Triage-Agent)**
 
-An AI-powered support triage project focused on processing and organizing support requests.
+AI-powered support triage system for processing and organizing support requests.
 
-`Python`
-
-<a href="https://github.com/theakashr/AI-Support-Triage-Agent">View Project →</a>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-**🏏 Gully Cricket App**
+**🏏 [Gully Cricket App](https://github.com/theakashr/gully-cricket-app)**
 
-A web application built around the gully-cricket experience.
+A fun web application built around the gully-cricket experience.
 
-`JavaScript`
-
-<a href="https://github.com/theakashr/gully-cricket-app">View Project →</a>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🏥 AI Health Predictor**
+**🏥 [AI Health Predictor](https://github.com/theakashr/ai-health-predictor)**
 
-An AI-based health prediction project built with TypeScript.
+AI-based health prediction tool built with modern web technologies.
 
-`TypeScript`
-
-<a href="https://github.com/theakashr/ai-health-predictor">View Project →</a>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-**💼 Portfolio**
+**💼 [Portfolio](https://github.com/theakashr/PORTFOLIO2)**
 
-A personal portfolio website exploring modern web development and presentation.
+Personal portfolio website showcasing modern web development and design.
 
-`JavaScript`
-
-<a href="https://github.com/theakashr/PORTFOLIO2">View Project →</a>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**💊 MediCart Dashboard**
+**💊 [MediCart Dashboard](https://github.com/rootnode-rebels/medicart-dashboard)**
 
-A pharmacy management dashboard developed as part of the RootNode Rebels organization.
+Pharmacy management dashboard built with RootNode Rebels.
 
-`JavaScript`
-
-<a href="https://github.com/rootnode-rebels/medicart-dashboard">View Project →</a>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
 <td width="50%" valign="top">
 
-**📄 AI Resume Builder**
+**📄 [AI Resume Builder](https://github.com/theakashr/Ai-Resume-Builder)**
 
-An AI-powered resume-building project.
+AI-powered resume building tool for quick, professional resumes.
 
-`TypeScript`
-
-<a href="https://github.com/theakashr/Ai-Resume-Builder">View Project →</a>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 </td>
 </tr>
 </table>
 
+</div>
+
 <br/>
 
 <div align="center">
 
-### 🔭 Want to Explore More?
+**🔭 Want to see more?**
 
-<a href="https://github.com/theakashr?tab=repositories"><b>Explore All My Projects →</b></a>
-
-> Discover more experiments, projects, and things I'm building.
+<a href="https://github.com/theakashr?tab=repositories"><img src="https://img.shields.io/badge/Explore_All_My_Projects_→-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
 
 </div>
 
 ---
 
-## 🌱 Currently Learning
-
-- Artificial Intelligence & Generative AI
-- AI Agents
-- Software Engineering
-- Full-Stack Development
-- Cloud & Deployment
-- Problem Solving
-
----
-
-## 🔨 Currently Building
-
-> Exploring AI-powered products, modern software systems, and new ideas through hands-on projects.
-
-`Learn → Build → Experiment → Improve`
-
----
-
-## 🧠 How I Learn
-
-`Learn → Build → Break → Fix → Improve`
-
-> I learn best by turning concepts into real projects.
-
----
-
-## 📫 Let's Connect
-
-- 🐙 **GitHub:** [github.com/theakashr](https://github.com/theakashr)
-- 🔭 **Explore:** [Explore My Repositories →](https://github.com/theakashr?tab=repositories)
-
----
+### 🌱 &nbsp; CURRENTLY
 
 <div align="center">
 
-### Build. Learn. Explore. 🚀
+| ⚡ Learning | 🔨 Building |
+| :--- | :--- |
+| Artificial Intelligence & Generative AI | AI-powered applications & tools |
+| AI Agents & autonomous systems | Modern full-stack web projects |
+| Software Engineering & system design | New product ideas through hands-on development |
+| Cloud & deployment workflows | — |
+
+</div>
+
+---
+
+### 🤝 &nbsp; LET'S CONNECT
+
+<div align="center">
+
+<a href="https://github.com/theakashr"><img src="https://img.shields.io/badge/GitHub-theakashr-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
+&nbsp;
+<a href="https://github.com/theakashr?tab=repositories"><img src="https://img.shields.io/badge/Explore-All%20Repositories-6366F1?style=for-the-badge&logo=telescope&logoColor=white&labelColor=0D1117"/></a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:6366F1,100:0F172A&height=120&section=footer" width="100%"/>
+
+<div align="center">
+
+**Build. Learn. Explore.** 🚀
 
 `Always learning. Always building.`
 
