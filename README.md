@@ -153,7 +153,9 @@ AI-powered resume building tool for quick, professional resumes.
 
 <a href="https://github.com/theakashr"><img src="https://img.shields.io/badge/GitHub-theakashr-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
 &nbsp;
-<a href="https://github.com/theakashr?tab=repositories"><img src="https://img.shields.io/badge/Explore-All%20Repositories-6366F1?style=for-the-badge&logo=telescope&logoColor=white&labelColor=0D1117"/></a>
+<a href="https://www.linkedin.com/in/theakashr"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
+&nbsp;
+<a href="mailto:akashakashr505@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
 
 </div>
 
