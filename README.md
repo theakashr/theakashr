@@ -161,7 +161,27 @@ AI-powered resume building tool for quick, professional resumes.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:6366F1,100:0F172A&height=120&section=footer" width="100%"/>
+---
+
+### 📊 &nbsp; CONTRIBUTION MATRIX
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=theakashr&theme=github-compact&hide_border=true&area=true&area_color=6366F1&line=6366F1&point=A5B4FC&color=818CF8" width="100%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=theakashr&theme=transparent&hide_border=true&ring=6366F1&fire=818CF8&currStreakLabel=A5B4FC&sideLabels=818CF8&dates=636e7b" width="60%"/>
+
+<br/><br/>
+
+⭐ **Star my repositories if you find my open-source work useful!** ⭐
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0F172A,50:6366F1,100:0F172A&height=150&section=footer&text=Thank%20You%20For%20Visiting&fontSize=28&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
