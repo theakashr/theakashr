@@ -129,15 +129,6 @@ AI-powered resume building tool for quick, professional resumes.
 
 </div>
 
-<br/>
-
-<div align="center">
-
-**🔭 Want to see more?**
-
-<a href="https://github.com/theakashr?tab=repositories"><img src="https://img.shields.io/badge/Explore_All_My_Projects_→-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
-
-</div>
 
 ---
 
