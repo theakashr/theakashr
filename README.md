@@ -163,17 +163,67 @@ AI-powered resume building tool for quick, professional resumes.
 
 ---
 
-### 📊 &nbsp; CONTRIBUTION MATRIX
+### 📊 &nbsp; GITHUB ACTIVITY
 
+<!-- STATS + LANGUAGES — side by side, theme-aware -->
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=theakashr&theme=github-compact&hide_border=true&area=true&area_color=6366F1&line=6366F1&point=A5B4FC&color=818CF8" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=theakashr&show_icons=true&hide_border=true&bg_color=00000000&title_color=818CF8&icon_color=6366F1&text_color=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=theakashr&show_icons=true&hide_border=true&bg_color=00000000&title_color=4F46E5&icon_color=6366F1&text_color=1f2328" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=theakashr&show_icons=true&hide_border=true&bg_color=00000000&title_color=4F46E5&icon_color=6366F1&text_color=1f2328" width="48%" />
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=theakashr&layout=compact&hide_border=true&bg_color=00000000&title_color=818CF8&text_color=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=theakashr&layout=compact&hide_border=true&bg_color=00000000&title_color=4F46E5&text_color=1f2328" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theakashr&layout=compact&hide_border=true&bg_color=00000000&title_color=4F46E5&text_color=1f2328" width="40%" />
+</picture>
+
+</div>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=theakashr&theme=transparent&hide_border=true&ring=6366F1&fire=818CF8&currStreakLabel=A5B4FC&sideLabels=818CF8&dates=636e7b" width="60%"/>
+<!-- STREAK STATS — theme-aware -->
+<div align="center">
 
-<br/><br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=theakashr&hide_border=true&background=00000000&ring=6366F1&fire=818CF8&currStreakLabel=A5B4FC&sideLabels=818CF8&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=636e7b" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=theakashr&hide_border=true&background=00000000&ring=4F46E5&fire=6366F1&currStreakLabel=4F46E5&sideLabels=4F46E5&currStreakNum=1f2328&sideNums=1f2328&dates=636e7b" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=theakashr&hide_border=true&background=00000000&ring=4F46E5&fire=6366F1&currStreakLabel=4F46E5&sideLabels=4F46E5&currStreakNum=1f2328&sideNums=1f2328&dates=636e7b" width="55%" />
+</picture>
+
+</div>
+
+<br/>
+
+### 📈 &nbsp; Contribution Activity
+
+<!-- CONTRIBUTION GRAPH — theme-aware -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=theakashr&theme=github-dark&hide_border=true&area=true&area_color=6366F1&line=818CF8&point=A5B4FC&color=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=theakashr&theme=github-light&hide_border=true&area=true&area_color=C7D2FE&line=4F46E5&point=6366F1&color=1f2328" />
+  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=theakashr&theme=github-light&hide_border=true&area=true&area_color=C7D2FE&line=4F46E5&point=6366F1&color=1f2328" width="100%" />
+</picture>
+
+<br/>
+
+`Every square represents another step forward.`
+
+</div>
+
+<br/>
+
+```text
+BUILDING      → Projects
+LEARNING      → AI + Software
+EXPLORING     → New Technologies
+CONTRIBUTING  → Open Source
+```
+
+<div align="center">
 
 ⭐ **Star my repositories if you find my open-source work useful!** ⭐
 
