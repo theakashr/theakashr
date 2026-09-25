@@ -1,329 +1,191 @@
+<!-- HEADER & BOOT SEQUENCE -->
 <div align="center">
 
-<!-- TOP STATUS TELEMETRY BAR -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&height=50&lines=Full-stack+developer;Building+AI-powered+tools;Hackathon+enthusiast;Currently+shipping+11Shots+Live" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=27AE60&center=true&vCenter=true&width=600&height=50&lines=Full-stack+developer;Building+AI-powered+tools;Hackathon+enthusiast;Currently+shipping+11Shots+Live" />
+  <img alt="Typing Animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&height=50&lines=Full-stack+developer;Building+AI-powered+tools;Hackathon+enthusiast;Currently+shipping+11Shots+Live" />
+</picture>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00E676?style=for-the-badge&logo=opsgenie&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/LOCATION-INDIA-38BDF8?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/NODE-CS_ENGINEERING-818CF8?style=for-the-badge&logo=intel&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/ROLE-DIGITAL_EXPLORER-F43F5E?style=for-the-badge&logo=radar&logoColor=white&labelColor=0D1117" />
+  <b>Akash (theakashr)</b> &nbsp;•&nbsp; Manipal University &nbsp;•&nbsp; Team RootNode Rebels
 </p>
-
-<!-- DYNAMIC TYPING HEADER -->
-<a href="https://github.com/theakashr">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=AKASH+%2F%2F+DIGITAL+EXPLORER;EXPLORING.+BUILDING.+BREAKING.+LEARNING.;TURNING+IDEAS+INTO+WORKING+SYSTEMS" alt="Typing Header" />
-</a>
-
-<br/>
-
-# AKASH // DIGITAL EXPLORER
-
-### Exploring. Building. Breaking. Learning.
-
-> An evolving map of my journey through software, AI, engineering and ideas.
-
-<br/>
-
-> Welcome to my digital workspace.
->
-> I'm Akash — a Computer Science Engineering student exploring software development, artificial intelligence, web technologies, automation, and emerging technology.
-
-<br/>
-
-<!-- SYSTEM NAVIGATION HUD -->
-<p align="center">
-  <a href="#explore"><b><code>[ 🧭 Explore ]</code></b></a> &nbsp;
-  <a href="#projects"><b><code>[ 🚀 Projects ]</code></b></a> &nbsp;
-  <a href="#skills"><b><code>[ 🧠 Skills ]</code></b></a> &nbsp;
-  <a href="#experiments"><b><code>[ 🧪 Experiments ]</code></b></a> &nbsp;
-  <a href="#learning"><b><code>[ 📚 Learning ]</code></b></a> &nbsp;
-  <a href="#building"><b><code>[ 🏗️ Building ]</code></b></a> &nbsp;
-  <a href="#connect"><b><code>[ 📡 Connect ]</code></b></a>
-</p>
-
----
 
 </div>
 
 <br/>
 
-## 🖥️ SECTION 02 — SYSTEM STATUS
-
-```text
-┌─────────────────────────────────────────────┐
-│ AKASH.EXPLORER                              │
-├─────────────────────────────────────────────┤
-│ STATUS        : BUILDING                    │
-│ MODE          : LEARNING + CREATING         │
-│ FOCUS         : SOFTWARE + AI               │
-│ ENVIRONMENT   : GITHUB                      │
-│ MISSION       : TURN IDEAS INTO PRODUCTS    │
-└─────────────────────────────────────────────┘
-```
+<!-- BOOT LOG -->
+<details open>
+<summary><b><code>$ system --boot-sequence --verbose</code></b></summary>
 
 <br/>
 
----
-
-<a id="explore"></a>
-## 🧭 01 // EXPLORATION MAP
-
 ```text
-               ┌─────────────────────────────────────────┐
-               │    AKASH // EXPLORATION SYSTEM NODE     │
-               └────────────────────┬────────────────────┘
-                                    │
-          ┌─────────────────────────┼─────────────────────────┐
-          │                         │                         │
-┌─────────▼─────────┐     ┌─────────▼─────────┐     ┌─────────▼─────────┐
-│ 01. FULL-STACK    │     │ 02. ARTIFICIAL    │     │ 03. MOBILE        │
-│ SYSTEMS           │     │ INTELLIGENCE      │     │ ENGINEERING       │
-│ Web / APIs / DB   │     │ LLMs / RAG / Agents│    │ Flutter / Android │
-└───────────────────┘     └───────────────────┘     └───────────────────┘
+[0.00012] BOOT: Initializing system kernel for 'theakashr'...
+[0.00340] IDENTITY: Akash — Full-Stack & AI Developer
+[0.00512] ACADEMICS: Computer Science Engineering @ Manipal University
+[0.00890] SQUAD: Active member of 'RootNode Rebels' hackathon team
+[0.01240] STATUS: Shipping 11Shots Live + preparing for DeepTech / Edge AI Hackathon
+[0.01980] MISSION: Turn complex ideas into fast, intuitive, and accessible software.
 ```
 
-### Core Exploration Tracks
-
-| Track ID | Exploration Vector | Focus Domain | Current Phase | Mission Goal |
-| :--- | :--- | :--- | :--- | :--- |
-| **TRK-01** | **Full-Stack Systems** | Web Apps, REST/GraphQL APIs, Scalable Backends | `ACTIVE` | Build production-ready, performant web platforms |
-| **TRK-02** | **AI & Autonomous Agents** | LLMs, RAG Pipelines, Multi-agent Workflows | `ACTIVE` | Embed intelligence into real-world applications |
-| **TRK-03** | **Mobile Architecture** | Flutter, Native Android, Cross-platform UX | `EXPANDING` | Deliver smooth, native-feeling mobile applications |
-| **TRK-04** | **Automation & Tooling** | Developer Tools, CI/CD, Micro-SaaS Utilities | `RESEARCH` | Automate repetitive tasks & streamline workflows |
+</details>
 
 <br/>
 
----
+<!-- PROJECT DASHBOARD -->
+<h2>🚀 Project Dashboard</h2>
 
-<a id="projects"></a>
-## 🚀 02 // PROJECT DISPATCH
-
-> *I don't just write code — I construct working software systems.*
-
-```text
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│ DISPATCHED MISSIONS / ACTIVE PROJECTS                                                  │
-└────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-### 🛰️ Featured Missions
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-#### 🔹 Mission 01: Intelligent AI Assistant & RAG Engine
-`TAGS: [AI] [LLM] [PYTHON] [RAG]`  
-`STATUS: ACTIVE DEVELOPMENT`
-
-- 🧠 **Concept:** Context-aware AI system leveraging retrieval-augmented generation for document intelligence.
-- ⚡ **Key Tech:** Python, LangChain, Vector Database, OpenAI / Gemini APIs, FastAPI.
-- 🎯 **Impact:** Fast semantic retrieval with customized knowledge grounding.
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔹 Mission 02: Full-Stack Scalable Web System
-`TAGS: [WEB] [MERN] [NEXT.JS] [TAILWIND]`  
-`STATUS: PRODUCTION`
-
-- 🌐 **Concept:** Modern web platform built with clean modular architecture and optimized rendering.
-- ⚡ **Key Tech:** React / Next.js, TypeScript, Node.js, Express, PostgreSQL / MongoDB.
-- 🎯 **Impact:** High Lighthouse performance score with seamless user interactions.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🔹 Mission 03: Cross-Platform Mobile Application
-`TAGS: [MOBILE] [FLUTTER] [DART] [FIREBASE]`  
-`STATUS: BETA`
-
-- 📱 **Concept:** Fluid mobile experience with real-time synchronization and intuitive offline-first logic.
-- ⚡ **Key Tech:** Flutter, Dart, Firebase Auth, Firestore, State Management (Provider/Bloc).
-- 🎯 **Impact:** Native 60fps UI performance across Android & iOS.
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔹 Mission 04: Developer Productivity & CLI Tools
-`TAGS: [TOOLS] [CLI] [AUTOMATION] [DEV]`  
-`STATUS: LAB EXPERIMENT`
-
-- 🛠️ **Concept:** Command-line suite to automate boilerplate setup, repository scaffolding, and micro-tasks.
-- ⚡ **Key Tech:** Node.js / Python CLI, Shell scripting, Git API.
-- 🎯 **Impact:** Saves hours during project setup and repetitive developer operations.
-
-</td>
-</tr>
+<table width="100%" border="0" cellspacing="0" cellpadding="8">
+  <thead>
+    <tr align="left">
+      <th width="28%">Project</th>
+      <th width="44%">Description</th>
+      <th width="18%">Tech Stack</th>
+      <th width="10%">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b><a href="https://github.com/theakashr/[REPLACE_ME: 11shots-repo]">🏏 11Shots Live</a></b></td>
+      <td>Real-time cricket scoring app featuring live score count-up, Framer Motion animations, and a mobile-first UI.</td>
+      <td><img src="https://img.shields.io/badge/React-2ECC71?style=flat-square&logo=react&logoColor=white" alt="React"/><br/><img src="https://img.shields.io/badge/Framer_Motion-10B981?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion"/></td>
+      <td><a href="[REPLACE_ME: https://11shots-live-demo-url]"><img src="https://img.shields.io/badge/Live_App-2ECC71?style=flat-square&logo=vercel&logoColor=white" alt="Live App"/></a></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/theakashr/[REPLACE_ME: farmer-voice-repo]">🌾 Farmer Voice Assistant</a></b></td>
+      <td>Voice-based crop disease diagnosis tool for rural farmers with Kannada/Hindi voice I/O via Web Speech API and Plant.id integration.</td>
+      <td><img src="https://img.shields.io/badge/Web_Speech_API-2ECC71?style=flat-square" alt="Web Speech API"/><br/><img src="https://img.shields.io/badge/Plant.id_API-10B981?style=flat-square" alt="Plant.id API"/></td>
+      <td><a href="https://github.com/theakashr/[REPLACE_ME: farmer-voice-repo]"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/theakashr/[REPLACE_ME: hostel-management-repo]">🏢 Hostel Management System</a></b></td>
+      <td>Comprehensive student housing management & room allocation portal built during Manipal WebForge Hackathon.</td>
+      <td><img src="https://img.shields.io/badge/React-2ECC71?style=flat-square&logo=react&logoColor=white" alt="React"/><br/><img src="https://img.shields.io/badge/Node.js-10B981?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/></td>
+      <td><a href="https://github.com/theakashr/[REPLACE_ME: hostel-management-repo]"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/theakashr/[REPLACE_ME: medical-shop-repo]">💊 Medical Shop System</a></b></td>
+      <td>Inventory tracking, billing generation, and stock alert management system for pharmacy operations.</td>
+      <td><img src="https://img.shields.io/badge/Node.js-2ECC71?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/><br/><img src="https://img.shields.io/badge/Database-10B981?style=flat-square" alt="Database"/></td>
+      <td><a href="https://github.com/theakashr/[REPLACE_ME: medical-shop-repo]"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/theakashr/[REPLACE_ME: edge-ai-hackathon-repo]">⚡ [REPLACE_ME: Hackathon Project Name]</a></b></td>
+      <td>24-hour national hackathon entry focused on DeepTech & Edge AI. [REPLACE_ME: Add 1-line project description]</td>
+      <td><img src="https://img.shields.io/badge/Edge_AI-2ECC71?style=flat-square" alt="Edge AI"/><br/><img src="https://img.shields.io/badge/Python-10B981?style=flat-square&logo=python&logoColor=white" alt="Python"/></td>
+      <td><a href="https://github.com/theakashr/[REPLACE_ME: edge-ai-hackathon-repo]"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a></td>
+    </tr>
+  </tbody>
 </table>
 
 <br/>
 
----
+<!-- TECH STACK -->
+<h2>🛠️ Tech Stack</h2>
 
-<a id="skills"></a>
-## 🧠 03 // TECH MATRIX & CAPABILITIES
+<table width="100%" border="0" cellspacing="0" cellpadding="6">
+  <tr>
+    <td width="22%"><b>Core</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI / ML Tooling</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Gemini_API-8E44AD?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API"/>
+      <img src="https://img.shields.io/badge/Prompt_Engineering-2ECC71?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/>
+      <img src="https://img.shields.io/badge/Web_Speech_API-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Speech API"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Currently Exploring</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Edge_AI-E67E22?style=for-the-badge&logo=cpu&logoColor=white" alt="Edge AI"/>
+      <img src="https://img.shields.io/badge/On--Device_ML-16A085?style=for-the-badge&logo=tensorflow&logoColor=white" alt="On-Device ML"/>
+    </td>
+  </tr>
+</table>
 
-```text
-[ SYSTEM CAPABILITIES LOADED ]
-```
+<br/>
 
+<!-- GITHUB STATS -->
+<h2>📊 System Telemetry</h2>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=theakashr&show_icons=true&theme=dark&hide_border=true&title_color=2ECC71&icon_color=2ECC71" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=theakashr&show_icons=true&theme=default&hide_border=true&title_color=27AE60&icon_color=27AE60" />
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=theakashr&show_icons=true&theme=dark&hide_border=true&title_color=2ECC71&icon_color=2ECC71" />
+      </picture>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=theakashr&layout=compact&theme=dark&hide_border=true&title_color=2ECC71" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=theakashr&layout=compact&theme=default&hide_border=true&title_color=27AE60" />
+        <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theakashr&layout=compact&theme=dark&hide_border=true&title_color=2ECC71" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <br/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=theakashr&theme=dark&hide_border=true&ring=2ECC71&fire=2ECC71" />
+        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=theakashr&theme=default&hide_border=true&ring=27AE60&fire=27AE60" />
+        <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=theakashr&theme=dark&hide_border=true&ring=2ECC71&fire=2ECC71" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- CURRENTLY // NEXT -->
+<h2>⚡ Currently // Next</h2>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="8">
+  <thead>
+    <tr align="left">
+      <th width="50%">⚡ Currently</th>
+      <th width="50%">🎯 Next Up</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        • Shipping and polishing <b>11Shots Live</b> (real-time cricket scoring app)<br/>
+        • Prepping for the national <b>DeepTech / Edge AI Hackathon</b>
+      </td>
+      <td>
+        • Exploring lightweight <b>on-device AI inference</b> models<br/>
+        • Contributing to active <b>RootNode Rebels</b> team repositories
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+<!-- CONNECT FOOTER -->
+<br/>
 <div align="center">
 
-### Primary Technology Stack
+<p align="center">
+  <a href="[REPLACE_ME: https://www.linkedin.com/in/your-linkedin-handle]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> &nbsp;
+  <a href="https://github.com/theakashr"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a> &nbsp;
+  <a href="mailto:[REPLACE_ME: your.email@example.com]"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a> &nbsp;
+  <a href="[REPLACE_ME: https://your-portfolio-website.com]"><img src="https://img.shields.io/badge/Portfolio-2ECC71?style=flat-square&logo=browser&logoColor=white" alt="Portfolio"/></a>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,c,dart,react,nextjs,nodejs,express,flutter,html,css,tailwind,postgres,firebase,sqlite,git,github,vscode,docker,postman,vercel,netlify&perline=8" />
-
-</div>
-
-<br/>
-
-### Matrix Breakdown
-
-| Subsystem Domain | Technologies & Frameworks | Mastery Focus |
-| :--- | :--- | :--- |
-| 💻 **Languages** | Python, TypeScript, JavaScript, C, Dart, HTML5/CSS3 | Syntax mastery, algorithms, OOP & functional programming |
-| 🌐 **Web Architecture** | React.js, Next.js, Node.js, Express.js, Tailwind CSS, REST APIs | Modern UI/UX, server-side rendering, API optimization |
-| 📱 **Mobile Development** | Flutter, Android SDK, Responsive Layouts, State Management | Multi-platform deployment, native APIs, fluid UI |
-| 🤖 **AI & Intelligence** | LLM APIs (Gemini, OpenAI), RAG Systems, AI Agents, Prompt Engineering | Integrating AI capabilities into practical web/mobile apps |
-| 🗄️ **Database & Cloud** | PostgreSQL, MongoDB, Firebase Firestore, SQLite, Vercel, Supabase | Schema design, real-time data sync, cloud deployment |
-| 🛠️ **Tools & Environment** | Git, GitHub, VS Code, Postman, Docker, Shell | Version control, containerization, API testing, debugging |
-
-<br/>
-
----
-
-<a id="experiments"></a>
-## 🧪 04 // THE LAB (EXPERIMENTS & SPIKES)
-
-> *"Moving fast, breaking hypotheses, learning deep principles."*
-
-Here is where I log mini-experiments, spikes, and technical breakthroughs:
-
-```text
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│ LAB LOG #001 — MULTI-AGENT SWARM ORCHESTRATION                                          │
-├────────────────────────────────────────────────────────────────────────────────────────┤
-│ Hypothesis : Breaking down complex coding tasks into specialized micro-agents          │
-│              improves accuracy by 40%.                                                 │
-│ Status     : TESTED & CONFIRMED                                                        │
-│ Key Takeaway: Scoped prompts with isolated tool definitions prevent agent drift.       │
-└────────────────────────────────────────────────────────────────────────────────────────┘
-
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│ LAB LOG #002 — FLUTTER VS NATIVE RENDERING BENCHMARKS                                  │
-├────────────────────────────────────────────────────────────────────────────────────────┤
-│ Hypothesis : Custom Impeller engine in Flutter reduces frame drops under heavy load.   │
-│ Status     : BENCHMARKED                                                               │
-│ Key Takeaway: Skia fallback vs Impeller shows 25% rasterization speedup on Android.    │
-└────────────────────────────────────────────────────────────────────────────────────────┘
-
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│ LAB LOG #003 — ZERO-CONFIG AUTOMATION WORKFLOWS                                        │
-├────────────────────────────────────────────────────────────────────────────────────────┤
-│ Hypothesis : Combining GitHub Actions with webhooks automates 90% of PR checks.        │
-│ Status     : IMPLEMENTED                                                               │
-│ Key Takeaway: Continuous telemetry feedback keeps software maintainable at scale.     │
-└────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
----
-
-<a id="learning"></a>
-## 📚 05 // LEARNING RADAR & RESEARCH TRACKS
-
-Currently scanning and acquiring knowledge across these active technological vectors:
-
-```text
-[ RADAR SCANNING ACTIVE TARGETS ]
-
- 🟢 [IN PROGRESS]  ───────> Autonomous AI Agents & LangChain Architecture
- 🟢 [IN PROGRESS]  ───────> Advanced System Architecture & Scalable Microservices
- 🟡 [NEXT IN QUEUE] ───────> Deep Dive into Compiler Design & Low-level Optimization
- 🟡 [NEXT IN QUEUE] ───────> Distributed Systems & Edge Computing Paradigms
-```
-
-### Knowledge Acquisition Pipeline
-
-```text
-┌───────────────────┐      ┌───────────────────┐      ┌───────────────────┐
-│  01. THEORY &     │ ───> │  02. PROTOTYPE    │ ───> │  03. PRODUCTION   │
-│  RESEARCH         │      │  IN THE LAB       │      │  APPLICATION      │
-└───────────────────┘      └───────────────────┘      └───────────────────┘
-```
-
-<br/>
-
----
-
-<a id="building"></a>
-## 🏗️ 06 // CURRENT BUILDS & ROADMAP
-
-What I am actively building right now:
-
-```text
-PROJECT ALPHA : AI WORKFLOW ENGINE
-[████████████████████████████████░░░░░░░░] 80% Completed
-
-PROJECT BETA  : DEVELOPER TOOLING SUITE
-[████████████████████████░░░░░░░░░░░░░░░░] 60% Completed
-
-PROJECT GAMMA : KNOWLEDGE & SYSTEM SPEC
-[████████████████░░░░░░░░░░░░░░░░░░░░░░░░] 40% Completed
-```
-
-- 🟢 **Now:** Refining AI prompt pipelines, building full-stack responsive web apps.
-- 🟡 **Next:** Publishing open-source developer CLI tools & building multi-agent integrations.
-- 🔵 **Future:** Architectural design for scalable SaaS platforms and autonomous systems.
-
-<br/>
-
----
-
-<a id="connect"></a>
-## 📡 07 // COMM LINK & TRANSMISSION
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│ ESTABLISH CONNECTION WITH AKASH                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-Got a project idea, open-source opportunity, AI experiment, or just want to discuss software engineering?
-
-<div align="center">
-
-<a href="https://github.com/theakashr">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
-</a>
-<a href="https://www.linkedin.com/in/theakashr">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
-</a>
-<a href="mailto:akash.r@example.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
-</a>
-
-<br/><br/>
-
-</div>
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│ SYSTEM PHILOSOPHY                                           │
-├─────────────────────────────────────────────────────────────┤
-│ "I believe technology creates real impact when it solves    │
-│  real problems, scales efficiently, and delivers           │
-│  meaningful user experiences."                              │
-└─────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
-<div align="center">
-
-<sub><b>AKASH // DIGITAL EXPLORER</b> &nbsp;•&nbsp; Built with Markdown & Code &nbsp;•&nbsp; <code>SYSTEM ID: THEAKASHR-2026</code></sub>
+<sub><code>> connection_closed — thanks for scrolling.</code></sub>
 
 </div>
