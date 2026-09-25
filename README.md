@@ -1,191 +1,94 @@
-<!-- HEADER & BOOT SEQUENCE -->
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&height=50&lines=Full-stack+developer;Building+AI-powered+tools;Hackathon+enthusiast;Currently+shipping+11Shots+Live" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=27AE60&center=true&vCenter=true&width=600&height=50&lines=Full-stack+developer;Building+AI-powered+tools;Hackathon+enthusiast;Currently+shipping+11Shots+Live" />
-  <img alt="Typing Animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&height=50&lines=Full-stack+developer;Building+AI-powered+tools;Hackathon+enthusiast;Currently+shipping+11Shots+Live" />
-</picture>
+# Hey, I'm Akash 👋
 
-<p align="center">
-  <b>Akash (theakashr)</b> &nbsp;•&nbsp; Manipal University &nbsp;•&nbsp; Team RootNode Rebels
-</p>
+### Build. Learn. Explore.
+
+> Computer Science Engineering student exploring software development, AI, web technologies, and new ideas — one project at a time.
+
+<br/>
+
+[Projects](#featured-projects) &nbsp;•&nbsp; [Skills](#tech-i-work-with) &nbsp;•&nbsp; [Connect](#lets-connect)
 
 </div>
 
 <br/>
 
-<!-- BOOT LOG -->
-<details open>
-<summary><b><code>$ system --boot-sequence --verbose</code></b></summary>
+---
 
-<br/>
+## About Me
 
-```text
-[0.00012] BOOT: Initializing system kernel for 'theakashr'...
-[0.00340] IDENTITY: Akash — Full-Stack & AI Developer
-[0.00512] ACADEMICS: Computer Science Engineering @ Manipal University
-[0.00890] SQUAD: Active member of 'RootNode Rebels' hackathon team
-[0.01240] STATUS: Shipping 11Shots Live + preparing for DeepTech / Edge AI Hackathon
-[0.01980] MISSION: Turn complex ideas into fast, intuitive, and accessible software.
-```
+I am a Computer Science Engineering student with a strong passion for software development, artificial intelligence, and modern web applications. 
 
-</details>
+I focus on **learning by building** — turning ideas into practical, working products while exploring emerging tools and technologies along the way.
 
-<br/>
+---
 
-<!-- PROJECT DASHBOARD -->
-<h2>🚀 Project Dashboard</h2>
+## What I Build
 
-<table width="100%" border="0" cellspacing="0" cellpadding="8">
-  <thead>
-    <tr align="left">
-      <th width="28%">Project</th>
-      <th width="44%">Description</th>
-      <th width="18%">Tech Stack</th>
-      <th width="10%">Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b><a href="https://github.com/theakashr/[REPLACE_ME: 11shots-repo]">🏏 11Shots Live</a></b></td>
-      <td>Real-time cricket scoring app featuring live score count-up, Framer Motion animations, and a mobile-first UI.</td>
-      <td><img src="https://img.shields.io/badge/React-2ECC71?style=flat-square&logo=react&logoColor=white" alt="React"/><br/><img src="https://img.shields.io/badge/Framer_Motion-10B981?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion"/></td>
-      <td><a href="[REPLACE_ME: https://11shots-live-demo-url]"><img src="https://img.shields.io/badge/Live_App-2ECC71?style=flat-square&logo=vercel&logoColor=white" alt="Live App"/></a></td>
-    </tr>
-    <tr>
-      <td><b><a href="https://github.com/theakashr/[REPLACE_ME: farmer-voice-repo]">🌾 Farmer Voice Assistant</a></b></td>
-      <td>Voice-based crop disease diagnosis tool for rural farmers with Kannada/Hindi voice I/O via Web Speech API and Plant.id integration.</td>
-      <td><img src="https://img.shields.io/badge/Web_Speech_API-2ECC71?style=flat-square" alt="Web Speech API"/><br/><img src="https://img.shields.io/badge/Plant.id_API-10B981?style=flat-square" alt="Plant.id API"/></td>
-      <td><a href="https://github.com/theakashr/[REPLACE_ME: farmer-voice-repo]"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a></td>
-    </tr>
-    <tr>
-      <td><b><a href="https://github.com/theakashr/[REPLACE_ME: hostel-management-repo]">🏢 Hostel Management System</a></b></td>
-      <td>Comprehensive student housing management & room allocation portal built during Manipal WebForge Hackathon.</td>
-      <td><img src="https://img.shields.io/badge/React-2ECC71?style=flat-square&logo=react&logoColor=white" alt="React"/><br/><img src="https://img.shields.io/badge/Node.js-10B981?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/></td>
-      <td><a href="https://github.com/theakashr/[REPLACE_ME: hostel-management-repo]"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a></td>
-    </tr>
-    <tr>
-      <td><b><a href="https://github.com/theakashr/[REPLACE_ME: medical-shop-repo]">💊 Medical Shop System</a></b></td>
-      <td>Inventory tracking, billing generation, and stock alert management system for pharmacy operations.</td>
-      <td><img src="https://img.shields.io/badge/Node.js-2ECC71?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/><br/><img src="https://img.shields.io/badge/Database-10B981?style=flat-square" alt="Database"/></td>
-      <td><a href="https://github.com/theakashr/[REPLACE_ME: medical-shop-repo]"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a></td>
-    </tr>
-    <tr>
-      <td><b><a href="https://github.com/theakashr/[REPLACE_ME: edge-ai-hackathon-repo]">⚡ [REPLACE_ME: Hackathon Project Name]</a></b></td>
-      <td>24-hour national hackathon entry focused on DeepTech & Edge AI. [REPLACE_ME: Add 1-line project description]</td>
-      <td><img src="https://img.shields.io/badge/Edge_AI-2ECC71?style=flat-square" alt="Edge AI"/><br/><img src="https://img.shields.io/badge/Python-10B981?style=flat-square&logo=python&logoColor=white" alt="Python"/></td>
-      <td><a href="https://github.com/theakashr/[REPLACE_ME: edge-ai-hackathon-repo]"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a></td>
-    </tr>
-  </tbody>
-</table>
+| 🤖 AI | 💻 Software | 🌐 Web | 🚀 Experiments |
+| :--- | :--- | :--- | :--- |
+| Intelligent agents, RAG pipelines & LLM integrations | Core applications, developer utilities & systems | Responsive web apps with modern UI/UX | Micro-tools, prototypes & hackathon builds |
 
-<br/>
+> I enjoy turning ideas into practical projects and learning something new with every build.
 
-<!-- TECH STACK -->
-<h2>🛠️ Tech Stack</h2>
+---
 
-<table width="100%" border="0" cellspacing="0" cellpadding="6">
+## Tech I Work With
+
+<table width="100%" border="0">
   <tr>
-    <td width="22%"><b>Core</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-    </td>
+    <td width="20%"><b>Languages</b></td>
+    <td><code>C</code> • <code>Python</code> • <code>JavaScript</code> • <code>TypeScript</code></td>
   </tr>
   <tr>
-    <td><b>AI / ML Tooling</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Gemini_API-8E44AD?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API"/>
-      <img src="https://img.shields.io/badge/Prompt_Engineering-2ECC71?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/>
-      <img src="https://img.shields.io/badge/Web_Speech_API-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Speech API"/>
-    </td>
+    <td><b>Web</b></td>
+    <td><code>HTML</code> • <code>CSS</code> • <code>React</code> • <code>Next.js</code></td>
   </tr>
   <tr>
-    <td><b>Currently Exploring</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Edge_AI-E67E22?style=for-the-badge&logo=cpu&logoColor=white" alt="Edge AI"/>
-      <img src="https://img.shields.io/badge/On--Device_ML-16A085?style=for-the-badge&logo=tensorflow&logoColor=white" alt="On-Device ML"/>
-    </td>
+    <td><b>AI / ML</b></td>
+    <td><code>Generative AI</code> • <code>LLMs</code> • <code>RAG</code> • <code>AI Agents</code></td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td><code>Git</code> • <code>GitHub</code> • <code>Firebase</code> • <code>Vercel</code></td>
   </tr>
 </table>
 
-<br/>
+---
 
-<!-- GITHUB STATS -->
-<h2>📊 System Telemetry</h2>
+## Featured Projects
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=theakashr&show_icons=true&theme=dark&hide_border=true&title_color=2ECC71&icon_color=2ECC71" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=theakashr&show_icons=true&theme=default&hide_border=true&title_color=27AE60&icon_color=27AE60" />
-        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=theakashr&show_icons=true&theme=dark&hide_border=true&title_color=2ECC71&icon_color=2ECC71" />
-      </picture>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=theakashr&layout=compact&theme=dark&hide_border=true&title_color=2ECC71" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=theakashr&layout=compact&theme=default&hide_border=true&title_color=27AE60" />
-        <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theakashr&layout=compact&theme=dark&hide_border=true&title_color=2ECC71" />
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top">
-      <br/>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=theakashr&theme=dark&hide_border=true&ring=2ECC71&fire=2ECC71" />
-        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=theakashr&theme=default&hide_border=true&ring=27AE60&fire=27AE60" />
-        <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=theakashr&theme=dark&hide_border=true&ring=2ECC71&fire=2ECC71" />
-      </picture>
-    </td>
-  </tr>
-</table>
+| Project | Description | Tech | Link |
+| :--- | :--- | :--- | :--- |
+| **🏏 11Shots Live** | Real-time cricket scoring app with live score updates and mobile-first UI. | React, Framer Motion | [View Project](https://github.com/theakashr) |
+| **🌾 Farmer Voice Assistant** | Voice-based crop disease diagnosis tool with multilingual voice I/O. | Web Speech API, Plant.id | [View Project](https://github.com/theakashr) |
+| **🏢 Hostel Management System** | Student housing management portal built for Manipal WebForge Hackathon. | React, Node.js | [View Project](https://github.com/theakashr) |
+| **💊 Medical Shop System** | Pharmacy inventory tracking and billing management system. | Node.js, Database | [View Project](https://github.com/theakashr) |
 
-<br/>
+---
 
-<!-- CURRENTLY // NEXT -->
-<h2>⚡ Currently // Next</h2>
+## Currently
 
-<table width="100%" border="0" cellspacing="0" cellpadding="8">
-  <thead>
-    <tr align="left">
-      <th width="50%">⚡ Currently</th>
-      <th width="50%">🎯 Next Up</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        • Shipping and polishing <b>11Shots Live</b> (real-time cricket scoring app)<br/>
-        • Prepping for the national <b>DeepTech / Edge AI Hackathon</b>
-      </td>
-      <td>
-        • Exploring lightweight <b>on-device AI inference</b> models<br/>
-        • Contributing to active <b>RootNode Rebels</b> team repositories
-      </td>
-    </tr>
-  </tbody>
-</table>
+🧠 **Learning** — AI & Software Engineering  
+🔨 **Building** — New software projects  
+🔍 **Exploring** — AI tools and emerging technologies  
 
-<br/>
+---
 
-<!-- CONNECT FOOTER -->
-<br/>
+## Let's Connect
+
+Feel free to connect or reach out for collaborations:
+
+- 🐙 **GitHub:** [github.com/theakashr](https://github.com/theakashr)
+- 💼 **LinkedIn:** [linkedin.com/in/theakashr](https://www.linkedin.com/in/theakashr)
+
+---
+
 <div align="center">
 
-<p align="center">
-  <a href="[REPLACE_ME: https://www.linkedin.com/in/your-linkedin-handle]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> &nbsp;
-  <a href="https://github.com/theakashr"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a> &nbsp;
-  <a href="mailto:[REPLACE_ME: your.email@example.com]"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a> &nbsp;
-  <a href="[REPLACE_ME: https://your-portfolio-website.com]"><img src="https://img.shields.io/badge/Portfolio-2ECC71?style=flat-square&logo=browser&logoColor=white" alt="Portfolio"/></a>
-</p>
+### Build. Learn. Explore. 🚀
 
-<sub><code>> connection_closed — thanks for scrolling.</code></sub>
+<sub>Made with curiosity and code.</sub>
 
 </div>
