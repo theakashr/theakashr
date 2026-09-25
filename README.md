@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:6366F1,100:0F172A&height=200&section=header&text=Akash%20R.&fontSize=58&fontColor=ffffff&fontAlignY=35&desc=Developer%20%7C%20AI%20Explorer%20%7C%20Builder&descSize=17&descColor=A5B4FC&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,25:6366F1,50:818CF8,75:A78BFA,100:C084FC&height=200&section=header&text=Akash%20R.&fontSize=58&fontColor=ffffff&fontAlignY=35&desc=Developer%20%7C%20AI%20Explorer%20%7C%20Builder&descSize=17&descColor=EDE9FE&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -205,9 +205,11 @@ AI-powered resume building tool for quick, professional resumes.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0F172A,50:6366F1,100:0F172A&height=150&section=footer&text=Thank%20You%20For%20Visiting&fontSize=28&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,25:6366F1,50:818CF8,75:A78BFA,100:C084FC&height=150&section=footer" width="100%"/>
 
 <div align="center">
+
+### ✨ Thank You For Visiting ✨
 
 **Build. Learn. Explore.** 🚀
 
